@@ -1,5 +1,5 @@
 function main() {
-	const msg = "hello world";
+	const msg = "voila";
 	console.log(msg);
 }
 
