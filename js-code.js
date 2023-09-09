@@ -3,4 +3,9 @@ function main() {
 	console.log(msg);
 }
 
+
+
+
+
+print("Abcd")
 main()
